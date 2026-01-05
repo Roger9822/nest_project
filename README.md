@@ -8,4 +8,6 @@
 
 - This `index.html` file has been successfully deployed on Render and the live link is shared below.
 
-- Render link :    https://nest-project-xkrw.onrender.com/hello
+- Render link 1:    https://nest-project-xkrw.onrender.com
+
+- Render link 2:    https://nest-project-xkrw.onrender.com/hello
